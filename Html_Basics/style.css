@@ -1,0 +1,44 @@
+body{
+    background-color: lightgray;
+}
+.center{
+    text-align: center;
+    color: darkolivegreen;
+}
+.firstDiv{
+    height: 100px;
+    padding-left: 10%;
+    color: darkmagenta;
+}
+.secondDiv{
+    height: 400px;
+    padding-left: 20%;
+}
+.buttonClass{
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: darkorange;
+}
+.styled{
+    font-size: 300%;
+    background-color: red; 
+}
+.navClass{
+    height: 400px;
+    padding-left: 30%;
+    color: darkgoldenrod;
+    font-size: 400%; 
+}
+.thirdDiv{
+    height: 400px;
+    align-content: center;
+    align-items: center;
+    color: darkslateblue;
+    font-size: 500%;
+}
+
+.thirdDiv > imageClass{
+    height: 400px;
+    align-content: center;
+}
