@@ -13,11 +13,12 @@
 
 6. Admin Site 
 
-7. Security : Cross Site Scripting Protection (XSS) (Running JavaScript or Changing Database)
-              Cross Site Request Forgery (CSRF)     (Uisng login credentials of other user)
-              SQL Injection Protection              (Run arbitrary SQL code on database)
-              ClickJacking Protection               (Malicious site wraps another site)
-              SSL/HTTPS                             (Use HTTP methods) 
+7. Security : 
+Cross Site Scripting Protection (XSS) (Running JavaScript or Changing Database)
+Cross Site Request Forgery (CSRF)     (Using login credentials of other user)
+SQL Injection Protection              (Run arbitrary SQL code on database)
+ClickJacking Protection               (Malicious site wraps another site)
+SSL/HTTPS                             (Use HTTP methods) 
               
               
 
